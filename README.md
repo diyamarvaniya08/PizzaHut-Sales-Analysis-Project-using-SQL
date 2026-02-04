@@ -7,11 +7,11 @@ SQL-based analysis of PizzaHut sales data to derive meaningful business insights
 
 # Dataset Description & tool used
  - The dataset contains PizzaHut sales records and includes the following tables:
-       - orders
-       - order_details
-       - pizzas
-       - pizza_types
-   -The data includes order details, pizza categories, sizes, prices, and quantities sold.
+     - orders
+     - order_details
+     - pizzas
+     - pizza_types
+ - The data includes order details, pizza categories, sizes, prices, and quantities sold.
 - Tool used:
      - MySQL
        
@@ -37,4 +37,4 @@ SQL-based analysis of PizzaHut sales data to derive meaningful business insights
  - Strengthened understanding of joins and aggregations
  - Learned to analyze real-world business datasets
 
-- Inspired by SQL learning content from @Ayushi0214
+# Inspired by SQL learning content from @Ayushi0214
