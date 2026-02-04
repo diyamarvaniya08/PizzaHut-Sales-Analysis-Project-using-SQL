@@ -31,11 +31,11 @@ SQL-based analysis of PizzaHut sales data to derive meaningful business insights
  - Dataset Name: pizza_sales_files
  - Project Pdf: PizzaHut Sales Analysis-SQL.pdf
  - Project SQL Queries: PizzaHut_Queries.sql
-
- ### Inspired by SQL learning content from @Ayushi0214
   
 # Key Learnings
  - Improved hands-on experience with SQL queries
  - Strengthened understanding of joins and aggregations
  - Learned to analyze real-world business datasets
+
+ ### Inspired by SQL learning content from @Ayushi0214
 
