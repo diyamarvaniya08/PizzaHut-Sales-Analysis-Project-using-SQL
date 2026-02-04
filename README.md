@@ -39,3 +39,8 @@ SQL-based analysis of PizzaHut sales data to derive meaningful business insights
 
  ### Inspired by SQL learning content from @Ayushi0214
 
+# LinkedIn
+ - Project showcased on LinkedIn:
+https://www.linkedin.com/posts/diya-marvaniya-932088381_pizzahut-sals-analysis-pdf-activity-7424695064989294592--9ed?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4pUzYBQcuBUgmKk_OAlz9KU4n5MJKhqwI
+
+
